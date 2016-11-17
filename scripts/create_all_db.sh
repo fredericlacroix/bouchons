@@ -8,4 +8,7 @@
 #
 # It prompts for the root password
 
-./create_db.sh country $1 $2
+./create_db.sh bouchons $1 $2
+./create_db.sh catalog $1 $2
+./create_db.sh catalog_test $1 $2
+./create_db.sh doubles $1 $2
